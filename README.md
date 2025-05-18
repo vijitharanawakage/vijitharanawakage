@@ -54,9 +54,9 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.tiktok.com/@mr__unknown_sandesh" target="_blank"><img src="https://img.shields.io/badge/TikTok-mr__unknown_sandesh-FF0000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.instagram.com/mr__unknown_sandesh/profilecard/?igsh=OHN1ZXZndzUxdjBr" target="_blank"><img src="https://img.shields.io/badge/Instagram-Join%20Now-blue?style=for-the-badge&logo=instagram"></a>
-  <a href="https://whatsapp.com/channel/0029Vb5TUQb72WTmFdUmB71s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Subscribe-brightgreen?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://www.tiktok.com/@mr__unknown_sandesh" target="_blank"><img src="https://img.shields.io/badge/TikTok-Follow Now-FF0000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://www.instagram.com/mr__unknown_sandesh/profilecard/?igsh=OHN1ZXZndzUxdjBr" target="_blank"><img src="https://img.shields.io/badge/Instagram-Find%20Now-blue?style=for-the-badge&logo=instagram"></a>
+  <a href="https://whatsapp.com/channel/0029Vb5TUQb72WTmFdUmB71s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Join-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ---
