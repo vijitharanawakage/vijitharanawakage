@@ -54,9 +54,9 @@
 ### 🌍 Connect with Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@mr_unique_hacker" target="_blank"><img src="https://img.shields.io/badge/YouTube-MrUniqueHacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@mr__unknown_sandesh" target="_blank"><img src="https://img.shields.io/badge/TikTok-mr__unknown_sandesh-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://t.me/+AjUcOaQyFRllMDZl" target="_blank"><img src="https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=telegram"></a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Subscribe-brightgreen?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://whatsapp.com/channel/0029Vb5TUQb72WTmFdUmB71s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Subscribe-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ---
@@ -64,16 +64,6 @@
 <div align="center">
   <h2>📈 GitHub Contributions</h2>
   <img src="https://github-contribution-stats.vercel.app/api/?username=vijitharanawakage" alt="GitHub Contributions">
-</div>
-
----
-
-### 🎥 Latest Tiktok Videos
-
-<div align="center">
-  <a href="https://www.tiktok.com/@mr__unknown_sandesh">
-    <img src="https://github-readme-youtube-stats.herokuapp.com/?username=vijitharanawakage&theme=radical" alt="YouTube Stats">
-  </a>
 </div>
 
 ---
