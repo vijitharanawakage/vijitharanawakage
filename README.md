@@ -59,7 +59,7 @@
   <a href="https://whatsapp.com/channel/0029Vb5TUQb72WTmFdUmB71s" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Join-brightgreen?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
-<a href="https://github.com/vijitharanawakage/"><img src="https://i.ibb.co/0DC6PDM/20240816-123731.png" width=120 height=120></a>   
+<a href="https://github.com/vijitharanawakage/"><img src="https://i.ibb.co/0DC6PDM/20240816-123731.png" width=300 alt="Thanks Gif"></a>   
 
 ---
 
