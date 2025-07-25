@@ -13,7 +13,7 @@
 
 - 👨‍🏫 **Mr Unknown** - Owner of [DARK DRAGON FAMILY](https://www.tiktok..com/@mr__unknown_sandesh)
 - 🤖 Working on **<| 𝐊𝐈𝐍𝐆-𝐒𝐀𝐍𝐃𝐄𝐒𝐇-𝐌𝐃🫧**, a Multi-Device WhatsApp Bot
-- 💻 Skilled in **Android App Development**, **Web Development**, **Code Decripting**, and **Bot Development**
+- 💻 Skilled in **Android App Development**, **Web Development**, **Wa Bot Plugin Making**, and **Bot Development**
 - 🎥 **Tik Toker** at [Mr Unknown](https://www.tiktok.com/@mr__unknown_sandesh) 
 - 🌱 Always I am learning new tech and building innovative projects 🥹
 
