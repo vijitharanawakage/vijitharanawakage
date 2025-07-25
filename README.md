@@ -35,7 +35,7 @@
 
 - **Android App Development**
 - **Full-Stack Web Development**
-- **Code Dicripting**
+- **Code Making**
 - **Bot Developing**
 
 ---
