@@ -11,8 +11,8 @@
 
 ### 🚀 About Me
 
-- 👨‍🏫 **Mr Unknown** - Owner of [DARK DRAGON FAMILY](https://www.tiktok..com/@mr__unknown_sandesh)
-- 🤖 Working on **<| 𝐊𝐈𝐍𝐆-𝐒𝐀𝐍𝐃𝐄𝐒𝐇-𝐌𝐃🫧**, a Multi-Device WhatsApp Bot
+- 👨‍🏫 **Mr Unknown** - Owner of [QUEEN JUSMY MD](https://www.tiktok..com/@mr__unknown_sandesh)
+- 🤖 Working on **< | 𝐐ᴜᴇᴇɴ 𝐉ᴜꜱᴍʏ 𝐌ᴅ 🧚‍♀️**, a Multi-Device WhatsApp Bot
 - 💻 Skilled in **Android App Development**, **Web Development**, **Wa Bot Plugin Making**, and **Bot Development**
 - 🎥 **Tik Toker** at [Mr Unknown](https://www.tiktok.com/@mr__unknown_sandesh) 
 - 🌱 Always I am learning new tech and building innovative projects 🥹
@@ -23,8 +23,8 @@
   <h2>🚀 Projects and Bots</h2>
   <p>Check out some of the awesome projects and bots I'm working on.</p>
 
-  <a href="https://github.com/vijitharanawakage/KING-SANDESH-MD" target="_blank">
-    <img src="https://img.shields.io/badge/King_sandesh-Multi_Device_Whatsapp_Bot-green?style=for-the-badge&logo=whatsapp" alt="KING-SANDESH-MD">
+  <a href="https://github.com/vijitharanawakage/" target="_blank">
+    <img src="https://img.shields.io/badge/King_sandesh-Multi_Device_Whatsapp_Bot-green?style=for-the-badge&logo=whatsapp" alt="QUEEN JUSMY MD">
   </a>
   <br>
 </div>
