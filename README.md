@@ -24,7 +24,7 @@
   <p>Check out some of the awesome projects and bots I'm working on.</p>
 
   <a href="https://github.com/vijitharanawakage/" target="_blank">
-    <img src="https://img.shields.io/badge/Queen-Jusmy-Multi_Device_Whatsapp_Bot-green?style=for-the-badge&logo=whatsapp" alt="QUEEN JUSMY MD">
+    <img src=img src="https://img.shields.io/badge/queen-jusmy-multi-Device-Whatsapp-Bot-brightgreen?style=for-t&logo=whatsapp" alt="QUEEN JUSMY MD">
   </a>
   <br>
 </div>
